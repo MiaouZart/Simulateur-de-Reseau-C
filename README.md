@@ -35,7 +35,7 @@ Le simulateur permet de connecter plusieurs machines entre elles grâce au proto
 
 1. Cloner le dépôt :
     ```bash
-    git clone https://github.com/MiaouZart/Simulateur-de-Reseau.git
+    git clone https://github.com/MiaouZart/Simulateur-de-Reseau-C.git
     cd Simulateur-de-Reseau/code
 2. Lancer le simulateur dans le terminal :
    Méthode 1 :
