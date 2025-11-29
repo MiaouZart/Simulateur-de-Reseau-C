@@ -1,0 +1,7 @@
+.vscode
+*.o
+*.d
+*.d
+code/bin/*
+code/build/*
+code/bin/code
